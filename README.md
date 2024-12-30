@@ -34,6 +34,7 @@ Challenges Overcome:
 
 Key Learnings:
 ✅ Image segmentation is a powerful tool for various real-world applications like medical imaging, autonomous vehicles, and even in agricultural fields for crop detection.
+
 ✅ Understanding how different deep learning architectures can be leveraged for specific tasks has been a crucial part of this project.
 
 Next Steps:
