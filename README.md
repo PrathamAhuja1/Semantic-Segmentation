@@ -6,6 +6,7 @@ Project Overview:
 This project focuses on implementing and comparing different deep learning models for image segmentation. Specifically, I have worked with Improved U-Net and SegNet models to segment images into meaningful parts based on pixel-level predictions.
 
 Key Highlights:
+
 🔹 Improved U-Net Model:
 The model focuses on precise segmentation using an architecture that includes an encoder-decoder structure with skip connections for better feature extraction.
 
