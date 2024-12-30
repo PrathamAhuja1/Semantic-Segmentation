@@ -41,6 +41,7 @@ Key Learnings:
 
   ✅ Understanding how different deep learning architectures can be leveraged for specific tasks has been a crucial part of this project.
 
+
 Next Steps:
    I plan to refine the models further by exploring advanced architectures like Mask R-CNN and DeepLabV3+. The goal is to achieve more robust segmentation performance and generalize better to different datasets.
 
