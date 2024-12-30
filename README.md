@@ -22,8 +22,11 @@ I used various metrics such as IoU (Intersection over Union) and Dice Coefficien
 🔹 Tools & Technologies:
 
 Libraries: TensorFlow, Keras, OpenCV, Matplotlib
+
 Tools: Python, Jupyter Notebooks, GitHub
+
 Environment: Cloud-based GPUs for training
+
 Challenges Overcome:
 🔸 Handling large datasets for image segmentation.
 🔸 Fine-tuning hyperparameters to improve model performance.
