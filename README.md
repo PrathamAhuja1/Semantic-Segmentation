@@ -47,4 +47,4 @@ Next Steps:
 
   💡 This project not only enhanced my skills in deep learning but also taught me the importance of fine-tuning architectures to adapt to various tasks.
 
-#DeepLearning #MachineLearning #AI #ImageSegmentation #ComputerVision #ArtificialIntelligence #DataScience #TensorFlow #Python #GitHub #ProjectDevelopmen
+#DeepLearning #MachineLearning #AI #ImageSegmentation #ComputerVision #ArtificialIntelligence #DataScience #TensorFlow #Python #GitHub #ProjectDevelopment
