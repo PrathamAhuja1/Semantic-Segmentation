@@ -23,25 +23,27 @@ Key Highlights:
 
  🔹 Tools & Technologies:
 
-       Libraries: TensorFlow, Keras, OpenCV, Matplotlib
+  Libraries: TensorFlow, Keras, OpenCV, Matplotlib
 
-       Tools: Python, Jupyter Notebooks, GitHub
+  Tools: Python, Jupyter Notebooks, GitHub
 
-       Environment: Cloud-based GPUs for training
+  Environment: Cloud-based GPUs for training
 
 Challenges Overcome:
-🔸 Handling large datasets for image segmentation.
-🔸 Fine-tuning hyperparameters to improve model performance.
-🔸 Balancing accuracy and processing time for real-time applications.
+
+  🔸 Handling large datasets for image segmentation.
+  🔸 Fine-tuning hyperparameters to improve model performance.
+  🔸 Balancing accuracy and processing time for real-time applications.
 
 Key Learnings:
-✅ Image segmentation is a powerful tool for various real-world applications like medical imaging, autonomous vehicles, and even in agricultural fields for crop detection.
 
-✅ Understanding how different deep learning architectures can be leveraged for specific tasks has been a crucial part of this project.
+  ✅ Image segmentation is a powerful tool for various real-world applications like medical imaging, autonomous vehicles, and even in agricultural fields for crop detection.
+
+  ✅ Understanding how different deep learning architectures can be leveraged for specific tasks has been a crucial part of this project.
 
 Next Steps:
-I plan to refine the models further by exploring advanced architectures like Mask R-CNN and DeepLabV3+. The goal is to achieve more robust segmentation performance and generalize better to different datasets.
+   I plan to refine the models further by exploring advanced architectures like Mask R-CNN and DeepLabV3+. The goal is to achieve more robust segmentation performance and generalize better to different datasets.
 
-💡 This project not only enhanced my skills in deep learning but also taught me the importance of fine-tuning architectures to adapt to various tasks.
+  💡 This project not only enhanced my skills in deep learning but also taught me the importance of fine-tuning architectures to adapt to various tasks.
 
 #DeepLearning #MachineLearning #AI #ImageSegmentation #ComputerVision #ArtificialIntelligence #DataScience #TensorFlow #Python #GitHub #ProjectDevelopmen
