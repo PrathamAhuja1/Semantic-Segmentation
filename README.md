@@ -3,7 +3,7 @@
 I'm excited to share my latest project on Image Segmentation using deep learning techniques! 📸
 
 Project Overview:
-This project focuses on implementing and comparing different deep learning models for image segmentation. Specifically, I have worked with Improved U-Net and SegNet models to segment images into meaningful parts based on pixel-level predictions.
+This project focuses on implementing and comparing different deep learning models for image segmentation. Specifically, I developed custom U-Net and SegNet models to segment images into meaningful parts based on pixel-level predictions.
 
 Key Highlights:
 
