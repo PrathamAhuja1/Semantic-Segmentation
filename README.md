@@ -1,4 +1,5 @@
 Advanced Image Segmentation using Improved U-Net and SegNet Models 🖼️🤖
+
 Project Overview 🌍
 In the rapidly advancing field of computer vision, image segmentation plays a vital role across a wide range of industries, including autonomous driving, medical imaging, geospatial analysis, and robotics. Image segmentation refers to the task of partitioning an image into meaningful segments or regions based on various features such as color, intensity, or texture. The goal is to assign each pixel in an image to a predefined class, which is essential for tasks like object detection, facial recognition, and scene understanding.
 
